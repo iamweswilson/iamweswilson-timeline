@@ -59,7 +59,7 @@ values:
     year: 2017
   - copy: >
       Working with arguably the greatest team ever assembled. For the first time
-      in my career I was able to focus on one skillset: graphic design. UI,
+      in my career I was able to focus on one skillset... graphic design. UI,
       events, collateral, keynotes and more. I gave myself permission to fully
       trust my teammates and it paid off. My eyes were opened to how much impact
       the right team could have when combined with the right amount of autonomy.
