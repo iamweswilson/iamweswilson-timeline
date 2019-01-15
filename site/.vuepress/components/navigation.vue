@@ -5,7 +5,6 @@
         <div class="nav-brand">
           <router-link to="/">
             <img :src="require('../public/images/avatar.svg')" alt="iamweswilson">
-            <span class="brand-name">IAmWesWilson</span>
           </router-link>
         </div>
         <!-- /.nav-brand -->
