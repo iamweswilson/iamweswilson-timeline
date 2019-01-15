@@ -33,11 +33,7 @@ export default {
    * @type {Object}
    */
   props: {
-    headline: {
-      type: String,
-      default: () => {}
-    },
-    intro: {
+    item: {
       type: String,
       default: () => {}
     },
