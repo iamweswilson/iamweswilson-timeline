@@ -37,6 +37,10 @@ export default {
       type: String,
       default: () => {}
     },
+    headline: {
+      type: String,
+      default: () => {}
+    },
     intro: {
       type: String,
       default: () => {}
