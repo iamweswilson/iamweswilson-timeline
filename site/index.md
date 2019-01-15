@@ -3,14 +3,14 @@ layout: Home
 title: About Me
 
 hero:
-  headline: I am Wes Wilson. This is my site and this is how I got here.
+  headline: I am Wes Wilson. This is my site. This is how I got here.
   intro: This is my attempt at being open and honest about the experiences that have shaped my career. Minor successes, lessons learned, miscalculations... all of it. (However, I left off my personal milestones including marrying my wife, raising 3 kids and a cross-country move to Portland to name a few. If you really want to know anything about any of that, I'm happy to share over a beverage.) I believe there is value in people being vulnerable in their careers and sharing their failures alongside their successes. How else are you supposed to gain experience, amirite?!
 
 values:
   - year: 2019
     title: I built this website
     copy: |
-      This site started off as a fun side project to get my hands further into static development. It turned into a writing exercise and deep dive into forgotten experiences. From the technical side, it's built off of a set of tools that we cobbled together for OSF pilot projects including Vue.js, Vuepress, Bulma, Buefy and Netlify CMS. Feel free to dig into the code, take what you want and send any ideas.
+      This site started off as a fun side project to get my hands further into static development. It turned into a writing exercise and deep dive into forgotten experiences. From the technical side, it's built off of a set of tools that we cobbled together for OSF pilot projects including Vue.js, Vuepress, Bulma, Buefy and Netlify CMS. Feel free to dig into the code, take what you want and send any ideas. Please don't giggle too loudly at the trial and error that's happening in my commits.
     linktext: See the code for this site
     link: //github.com/iamweswilson/iamweswilson-timeline
 
@@ -159,7 +159,7 @@ values:
     title: National Junior Olympic Speed Skating Champion
     image: nationals.jpg
     copy: |
-      Gold medal in the 4000m two-man relay. We even set a national record (that would be beaten the following year.) Woohoo! In reality, the rest of the event was a disapointment. Why? That year, I trained at the US Olympic Training Center. I won or placed in every solo event I entered leading up to Nationals. I also became full of myself and slacked on training leading into Nationals. I didn't place in any individual events at Nationals.
+      Not directly a career milestone, but it shaped my mindset. Gold medal in the 4000m two-man relay. We even set a national record (that would be beaten the following year.) Woohoo! In reality, the rest of the event was a disapointment. Why? That year, I trained at the US Olympic Training Center. I won or placed in every solo event I entered leading up to Nationals. I also became full of myself and slacked on training leading into Nationals. I didn't place in any individual events at Nationals.
 
   - year: 1978
     title: Hello World
