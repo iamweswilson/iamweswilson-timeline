@@ -1,6 +1,18 @@
 <template>
   <main class="main">
-    <hero class="hero-main is-horizontal-center" :item="$page.frontmatter.hero"></hero>
+    <div class="hero-main is-horizontal-center" :item="$page.frontmatter.hero.headline">
+      <div class="hero-body">
+        <div class="container container-thin-alt">
+          <div class="hero-content">
+            <h2 class="hero-title">{{ $page.frontmatter.hero.headline }}</h2>
+            <p class="hero-intro">{{ $page.frontmatter.hero.intro }}</p>
+            <!-- /.hero-title -->
+          </div>
+          <!-- /.hero-content -->
+        </div>
+        <!-- /.container -->
+      </div>
+    </div>
     <div class="container container-thin">
       <div class="jump-to bottom">
         <a href="#footer">
