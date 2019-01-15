@@ -67,6 +67,9 @@ collections:
               - label: "Additional URL"
                 name: link2
                 widget: string
+          - label: Body
+            name: body
+            widget: markdown
 
   - name: "settings"
     label: "Settings"

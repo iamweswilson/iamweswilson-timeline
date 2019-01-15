@@ -1,4 +1,7 @@
 ---
+layout: Home
+title: About Me
+
 hero:
   headline: I am Wes Wilson. This is my site. This is how I got here.
   intro: >-
@@ -28,7 +31,7 @@ values:
       were absolutely the right call, even though they happened the night before
       it went on stage in front of 2,500+. I had no idea I'd be on stage and
       would not have selected a hoodie to wear if I had known.
-    image: summit-berlin2.jpg
+    image: /images/summit-berlin2.jpg
     link: >-
       //www.openstack.org/videos/summits/berlin-2018/keynotes-why-open-infrastructure-matters
     link2: >-
@@ -54,8 +57,8 @@ values:
       OSF’s primary category moving forward. We move locations and reinvent the
       design theme for every Summit, every 6 months. Each one is a labor of love
       and a lot of work. The team makes all the difference.
-    image: summit-sydney.jpg
-    title: 'Creative Director for my first Summit in Sydney, Australia'
+    image: /images/summit-sydney.jpg
+    title: "Creative Director for my first Summit in Sydney, Australia"
     year: 2017
   - copy: >
       Working with arguably the greatest team ever assembled. For the first time
@@ -65,10 +68,10 @@ values:
       the right team could have when combined with the right amount of autonomy.
       We were making an impact on hugely impactful organizations like CERN,
       Walmart, Nike, BMW, China Railway and more.
-    image: openstack-logo.jpg
+    image: /images/openstack-logo.jpg
     link: //openstack.org
     linktext: Check out openstack.org
-    title: 'Lead Designer, OpenStack Foundation'
+    title: "Lead Designer, OpenStack Foundation"
     year: 2015
   - copy: >
       Worked mostly with startups and Texas firms doing UI/UX work and the
@@ -89,16 +92,16 @@ values:
       fizzled out shortly after.
     link: //news.ycombinator.com/item?id=4866054
     linktext: Read the Hacker News post
-    title: 'Co-Founder, Awesomatic'
+    title: "Co-Founder, Awesomatic"
     year: 2012
   - copy: >
       Techstars opened one of their signature startup incubator programs in San
       Antonio as a means to attract and create cloud-based startups. San Antonio
       became a temporary home to some exciting startups like Cloudability,
       Keen.io and Distil. At the time I was pretty tied into the local startup
-      community, so I was asked to be a mentor. Imposter syndrome run wild! 
-    image: ts_cloud.jpg
-    title: 'Mentor, Techstars Cloud'
+      community, so I was asked to be a mentor. Imposter syndrome run wild!
+    image: /images/ts_cloud.jpg
+    title: "Mentor, Techstars Cloud"
     year: 2012
   - copy: >
       Previously known as ZippKid (a name purchased through BrandStack), we
@@ -112,7 +115,7 @@ values:
       management.
     link: //pressable.com
     linktext: Visit pressable.com
-    title: 'Co-Founder, Pressable'
+    title: "Co-Founder, Pressable"
     year: 2011
   - copy: >
       At a loss. Techcrunch described it as us being “pulled from the deadpool”
@@ -140,11 +143,11 @@ values:
       almost $100k, meaning I no longer have cash in the bank and the model
       wasn't strong enough to encourage further investment. Time to shut it
       down.
-    image: techcrunch-logo.png
+    image: /images/techcrunch-logo.png
     link: >-
       //techcrunch.com/2011/11/10/brandstack-heads-for-the-deadpool-blames-credit-card-fraud/
     linktext: Read the TechCrunch article
-    title: 'I made Techcrunch, finally!'
+    title: "I made Techcrunch, finally!"
     year: 2011
   - copy: >
       Sister product to BrandStack, later named BrandStack Custom, that utilized
@@ -152,7 +155,7 @@ values:
       project management portal. We even ate our own dog food and purchased the
       logo from a designer on BrandStack. While great in concept, UpStack's
       operational needs eventually led to our downfall.
-    image: upstack.png
+    image: /images/upstack.png
     link: //www.brandcrowd.com/logo-design/details/15120
     linktext: See the original logo on BrandCrowd
     title: Launched UpStack
@@ -164,7 +167,7 @@ values:
       was only in the "biz" for less than one year. Just look at how excited
       everyone was to hear us (yawning was a common reaction.) Side note, iPhone
       photos were not great back then.
-    image: sxsw-crowd.jpg
+    image: /images/sxsw-crowd.jpg
     title: Spoke on my first SXSW panel
     year: 2009
   - copy: >
@@ -182,7 +185,7 @@ values:
       BrandStack, which I think was partially to see how well we worked
       together. Luckily it all worked out and with $250k in the bank, it was
       time to take my startup full time.
-    image: brandstack-logo.jpg
+    image: /images/brandstack-logo.jpg
     title: Raised seed capital
     year: 2009
   - copy: >
@@ -193,7 +196,7 @@ values:
       could have also been fishing expeditions. Their competing service was not
       launched that I'm aware of, so they might have seen the writing on the
       wall before I did.
-    image: istock.jpg
+    image: /images/istock.jpg
     link: >-
       //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
     link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
@@ -209,8 +212,8 @@ values:
       to build the backend. They were a fantastic dev shop based in Ukraine. I
       never actually spoke to them, everything happened via Skype and email. I
       literally have never heard any of their voices to this day.
-    image: incspring.png
-    title: 'Founder, IncSpring'
+    image: /images/incspring.png
+    title: "Founder, IncSpring"
     year: 2008
   - copy: >
       At the time was the youngest VP in the bank. Regardless of the
@@ -230,7 +233,7 @@ values:
       on their ideas. The bank thought my time was better served looking at the
       actual numbers, doing actual forecasting. Meanwhile, I was making so
       little that I had a second job working the register at a driving range.
-    title: 'Credit Analyst, Commercial Banking'
+    title: "Credit Analyst, Commercial Banking"
     year: 2002
   - copy: >
       My initial intention was to get a degree in marketing, but I changed
@@ -243,7 +246,7 @@ values:
       once turned in my business plan for Fusion Boots as a final. I was certain
       I would ace that class. To my surprise, I received a "D" with a note
       saying I likely copied it from the internet. Go Runners!
-    image: utsa.png
+    image: /images/utsa.png
     title: >-
       Bachelors in Business Management and Entrepreneurship, University of TX at
       San Antonio
@@ -277,7 +280,7 @@ values:
       thing. Plus, I won "Best Legs" in my class... it's in the yearbook so it's
       legit. How could I not be happy?!
     image: /images/276px-health_careers.jpg
-    title: 'Graduate, Health Careers High School'
+    title: "Graduate, Health Careers High School"
     year: 1996
   - copy: >
       Not directly a career milestone, but it shaped my mindset. Gold medal in
@@ -287,7 +290,7 @@ values:
       Center. I won or placed in every solo event I entered leading up to
       Nationals. I also became full of myself and slacked on training leading
       into Nationals. I didn't place in any individual events at Nationals.
-    image: nationals.jpg
+    image: /images/nationals.jpg
     title: National Junior Olympic Speed Skating Champion
     year: 1995
   - copy: >
@@ -297,3 +300,6 @@ values:
     year: 1978
 ---
 
+<home-content>
+
+</home-content>

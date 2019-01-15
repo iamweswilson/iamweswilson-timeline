@@ -31,7 +31,7 @@
             <timeline-item
               v-if="value.image"
               :title="value.title"
-              :image="require('../public/images/' + value.image )"
+              :image="require('../public' + value.image )"
             >
               <p v-if="value.copy" class="timeline-copy">{{ value.copy }}</p>
               <a v-if="value.link" :href="value.link">
