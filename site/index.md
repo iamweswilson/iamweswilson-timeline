@@ -12,7 +12,7 @@ values:
     copy: |
       This site started off as a fun side project to get my hands further into static development. It turned into a writing exercise and deep dive into forgotten experiences. From the technical side, it's built off of a set of tools that we cobbled together for OSF pilot projects including Vue.js, Vuepress, Bulma, Buefy and Netlify CMS. Feel free to dig into the code, take what you want and send any ideas.
     linktext: See the code for this site
-    link: //github.com/iamweswilson/iamweswilson-site/
+    link: //github.com/iamweswilson/iamweswilson-timeline
 
   - year: 2018
     title: Led our team in writing keynotes for the OpenStack Summit in Berlin for the first time
