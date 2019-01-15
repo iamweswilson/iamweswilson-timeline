@@ -1,0 +1,34 @@
+.hero {
+  text-align: center;
+}
+.hero-body {
+  padding: 0;
+  margin: 2rem 0 4rem;
+}
+.hero-title {
+  font-size: 1.4em;
+  color: $black;
+  font-weight: bold;
+}
+.hero-intro {
+  font-size: 0.9em;
+  color: $dark-gray;
+}
+.jump-to {
+  text-align: center;
+  &.bottom {
+    margin-bottom: 2rem;
+  }
+  &.top {
+    margin-top: 2rem;
+  }
+  a {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    color: $dark-gray;
+    &:hover,
+    &:focus {
+      color: $red;
+    }
+  }
+}

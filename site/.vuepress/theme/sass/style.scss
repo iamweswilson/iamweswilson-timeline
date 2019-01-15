@@ -1,0 +1,23 @@
+/* ------------------------------------------------------------ *\
+    Bulma Styles
+\* ------------------------------------------------------------ */
+
+@import "./bulma/sass/utilities/_all";
+@import "./modules/variables";
+@import "./bulma";
+@import "~buefy/src/scss/buefy";
+
+/* ------------------------------------------------------------ *\
+    Modules
+\* ------------------------------------------------------------ */
+
+@import "./modules/base";
+@import "./modules/main";
+@import "./modules/header";
+@import "./modules/nav";
+@import "./modules/hero";
+@import "./modules/timeline";
+@import "./modules/timeline-item";
+@import "./modules/arrows";
+@import "./modules/container";
+@import "./modules/footer";

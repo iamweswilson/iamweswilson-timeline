@@ -1,0 +1,74 @@
+/* ------------------------------------------------------------ *\
+	Variables
+\* ------------------------------------------------------------ */
+
+$container-max-width: 1140px;
+$container-small-max-width: 996px;
+$container-medium-max-width: 1093px;
+$container-thin-max-width: 835px;
+$container-thin-alt-max-width: 600px;
+
+$container-gutter: 15px;
+
+$column-gap: 24px;
+
+$family-primary: "Roboto", sans-serif;
+$body-size: 14px;
+$body-line-height: 1.2;
+
+$primary: #000;
+$primary-invert: findColorInvert($primary);
+
+$gray: #9f9f9f;
+$light-gray: #cfcfcf;
+$dark-gray: #6d6d6d;
+$dark-gray-invert: findColorInvert($dark);
+
+$green: #18abaa;
+
+$purple-light: #c0a9f7;
+$purple-light-invert: findColorInvert($purple-light);
+
+$dark: #0c0016;
+$dark-invert: findColorInvert($dark);
+
+$red: #dc4d48;
+$red-invert: findColorInvert($red);
+
+$dark-light: #4a4a4a;
+
+$primary-dark: #111111;
+
+$white: #fff;
+$black: #222;
+
+$colors: (
+  "white": (
+    $white,
+    $black
+  ),
+  "black": (
+    $black,
+    $white
+  ),
+  "danger": (
+    $danger,
+    $danger-invert
+  ),
+  "primary": (
+    $primary,
+    $primary-invert
+  ),
+  "purple-light": (
+    $purple-light,
+    $purple-light-invert
+  ),
+  "dark": (
+    $dark,
+    $dark-invert
+  ),
+  "dark-gray": (
+    $dark-gray,
+    $dark-gray-invert
+  )
+);

@@ -1,0 +1,41 @@
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid $gray;
+  display: inline-block;
+  vertical-align: 6%;
+  margin-left: 5px;
+}
+
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid $gray;
+  display: inline-block;
+  vertical-align: 17%;
+  margin-left: 5px;
+}
+
+.arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  border-left: 4px solid $red;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.arrow-left {
+  width: 0;
+  height: 0;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  border-right: 4px solid $red;
+  display: inline-block;
+  margin-left: 5px;
+}
