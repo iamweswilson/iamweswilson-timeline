@@ -28,7 +28,7 @@ values:
       were absolutely the right call, even though they happened the night before
       it went on stage in front of 2,500+. I had no idea I'd be on stage and
       would not have selected a hoodie to wear if I had known.
-    image: /images/summit-berlin2.jpg
+    image: /images/openstack_berlin.jpg
     link: >-
       //www.openstack.org/videos/summits/berlin-2018/keynotes-why-open-infrastructure-matters
     link2: >-
