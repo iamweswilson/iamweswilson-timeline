@@ -38,7 +38,7 @@ collections:
               - { label: "Intro", name: intro, widget: text }
           - label: Values
             name: values
-            widget: list
+            widget: object
             fields:
               - { label: "Year", name: year, widget: string }
               - { label: "Title", name: title, widget: string }
@@ -50,7 +50,7 @@ collections:
                   name: linktext2,
                   widget: string,
                 }
-              - { label: "Additional URL", name: link, widget: string }
+              - { label: "Additional URL", name: link2, widget: string }
           - label: Body
             name: body
             widget: markdown
