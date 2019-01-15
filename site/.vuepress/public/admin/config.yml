@@ -26,34 +26,6 @@ collections:
       preview: false
 
     files:
-      - label: "Home Page"
-        name: "home-page"
-        file: "site/index.md"
-        fields:
-          - label: Hero
-            name: hero
-            widget: object
-            fields:
-              - { label: "Headline", name: headline, widget: text }
-              - { label: "Intro", name: intro, widget: text }
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - { label: "Year", name: year, widget: string }
-              - { label: "Title", name: title, widget: string }
-              - { label: "Copy", name: copy, widget: text }
-              - { label: "Link Text", name: linktext, widget: string }
-              - { label: "URL", name: link, widget: string }
-              - {
-                  label: "Additional Link Text",
-                  name: linktext2,
-                  widget: string,
-                }
-              - { label: "Additional URL", name: link, widget: string }
-          - label: Body
-            name: body
-            widget: markdown
 
   - name: "settings"
     label: "Settings"
