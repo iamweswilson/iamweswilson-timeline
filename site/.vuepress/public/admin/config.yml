@@ -43,9 +43,10 @@ collections:
               - label: "Year"
                 name: year
                 widget: object
-                - label: "Title"
-                  name: title
-                  widget: object
+                fields:
+                  - label: "Title"
+                    name: title
+                    widget: string
                   - label: "Copy"
                     name: copy
                     widget: text
