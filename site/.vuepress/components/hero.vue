@@ -33,10 +33,6 @@ export default {
    * @type {Object}
    */
   props: {
-    item: {
-      type: String,
-      default: () => {}
-    },
     headline: {
       type: String,
       default: () => {}
