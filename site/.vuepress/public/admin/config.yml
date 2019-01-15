@@ -36,32 +36,34 @@ collections:
             fields:
               - { label: "Headline", name: headline, widget: string }
               - { label: "Intro", name: intro, widget: text }
-          - label: Values
+          - label: Timeline Entries
             name: values
-            widget: object
+            widget: list
+            allow_add: true
             fields:
               - label: "Year"
                 name: year
-                widget: list
-                fields:
-                  - label: "Title"
-                    name: title
-                    widget: string
-                  - label: "Copy"
-                    name: copy
-                    widget: text
-                  - label: "Link Text"
-                    name: linktext
-                    widget: string
-                  - label: "URL"
-                    name: link
-                    widget: string
-                  - label: "Additional Link Text"
-                    name: linktext2
-                    widget: string
-                  - label: "Additional URL"
-                    name: link2
-                    widget: string
+                widget: number
+                default: 2019
+                valueType: int
+              - label: "Title"
+                name: title
+                widget: string
+              - label: "Copy"
+                name: copy
+                widget: text
+              - label: "Link Text"
+                name: linktext
+                widget: string
+              - label: "URL"
+                name: link
+                widget: string
+              - label: "Additional Link Text"
+                name: linktext2
+                widget: string
+              - label: "Additional URL"
+                name: link2
+                widget: string
 
   - name: "settings"
     label: "Settings"
