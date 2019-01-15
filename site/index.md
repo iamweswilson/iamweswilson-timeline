@@ -40,14 +40,6 @@ values:
       the first time
     year: 2018
   - copy: >
-      And by "expanded" I mean we went from one full time designer (me) to two,
-      with additional support from freelance contractors. I have always been
-      proud of what we've been able to accomplish with such a lean crew
-      supporting OpenStack, OpenStack Foundation and now a handful of new pilot
-      projects including Airship, Kata Containers, StarlingX and Zuul.
-    title: Expanded design team to accomodate new OSF projects and expanded mission
-    year: 2017
-  - copy: >
       I had the chance to work with some amazing designers like Joe Basnight,
       illustrators like Lola Scarpatti and event managers (looking at you
       FNtech.) We introduced the term “open infrastructure”, which would become
@@ -56,6 +48,14 @@ values:
       and a lot of work. The team makes all the difference.
     image: /images/summit-sydney.jpg
     title: 'Creative Director for my first Summit in Sydney, Australia'
+    year: 2017
+  - copy: >
+      And by "expanded" I mean we went from one full time designer (me) to two,
+      with additional support from freelance contractors. I have always been
+      proud of what we've been able to accomplish with such a lean crew
+      supporting OpenStack, OpenStack Foundation and now a handful of new pilot
+      projects including Airship, Kata Containers, StarlingX and Zuul.
+    title: Expanded design team to accomodate new OSF projects and expanded mission
     year: 2017
   - copy: >
       Working with arguably the greatest team ever assembled. For the first time
