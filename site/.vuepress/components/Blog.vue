@@ -1,10 +1,10 @@
 <template>
   <main class="main">
-    <hero class="hero-intro is-primary" containerClass="container-thin" withEntry title="Blog">
+    <div class="hero-intro is-primary" containerClass="container-thin" withEntry title="Blog">
       <template slot="entry">
         <p>Stuff I've written is below.</p>
       </template>
-    </hero>
+    </div>
 
     <div class="main-inner">
       <div class="container container-thin">

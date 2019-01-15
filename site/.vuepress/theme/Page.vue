@@ -1,18 +1,22 @@
 <template>
   <main class="main">
-    <hero class="hero-intro is-primary" containerClass="container-thin" withEntry :title="$page.title">
+    <div
+      class="hero-intro is-primary"
+      containerClass="container-thin"
+      withEntry
+      :title="$page.title"
+    >
       <template slot="entry">
         <p>{{$page.frontmatter.description}}</p>
       </template>
-    </hero>
+    </div>
 
     <base-section class="section-article-simple" containerClass="container-thin">
       <article class="article-simple default-page">
-
-        <Content :custom="false" />
-
-      </article><!-- /.article-simple -->
-
+        <Content :custom="false"/>
+      </article>
+      <!-- /.article-simple -->
     </base-section>
-  </main><!-- /.main -->
+  </main>
+  <!-- /.main -->
 </template>
