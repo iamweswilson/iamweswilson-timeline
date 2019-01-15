@@ -34,32 +34,23 @@ collections:
             name: hero
             widget: object
             fields:
-              - { label: "headline", name: headline, widget: string }
-              - label: Button
-                name: button
-                widget: object
-                fields:
-                  - { label: "title", name: title, widget: string }
-                  - { label: "url", name: url, widget: string }
+              - { label: "Headline", name: headline, widget: text }
+              - { label: "Intro", name: intro, widget: text }
           - label: Values
             name: values
             widget: list
             fields:
+              - { label: "Year", name: year, widget: string }
               - { label: "Title", name: title, widget: string }
               - { label: "Copy", name: copy, widget: text }
-          - label: Get Involved Steps
-            name: getInvolvedSteps
-            widget: list
-            fields:
-              - { label: "Title", name: title, widget: string }
-              - { label: "Entry", name: entry, widget: text }
-              - fields:
-                  label: "Link"
-                  name: link
-                  widget: object
-                  fields:
-                    - { label: "URL", name: url, widget: string }
-                    - { label: "Title", name: title, widget: string }
+              - { label: "Link Text", name: linktext, widget: string }
+              - { label: "URL", name: link, widget: string }
+              - {
+                  label: "Additional Link Text",
+                  name: linktext2,
+                  widget: string,
+                }
+              - { label: "Additional URL", name: link, widget: string }
           - label: Body
             name: body
             widget: markdown
