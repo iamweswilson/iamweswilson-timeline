@@ -42,26 +42,26 @@ collections:
             fields:
               - label: "Year"
                 name: year
-                widget: date
-                format: YYYY
-              - label: "Title"
-                name: title
-                widget: string
-              - label: "Copy"
-                name: copy
-                widget: text
-              - label: "Link Text"
-                name: linktext
-                widget: string
-              - label: "URL"
-                name: link
-                widget: string
-              - label: "Additional Link Text"
-                name: linktext2
-                widget: string
-              - label: "Additional URL"
-                name: link2
-                widget: string
+                widget: list
+                fields:
+                  - label: "Title"
+                    name: title
+                    widget: string
+                  - label: "Copy"
+                    name: copy
+                    widget: text
+                  - label: "Link Text"
+                    name: linktext
+                    widget: string
+                  - label: "URL"
+                    name: link
+                    widget: string
+                  - label: "Additional Link Text"
+                    name: linktext2
+                    widget: string
+                  - label: "Additional URL"
+                    name: link2
+                    widget: string
 
   - name: "settings"
     label: "Settings"
