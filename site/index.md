@@ -7,9 +7,9 @@ hero:
     of it. (Side note: I left off my personal milestones including marrying my
     wife, raising 3 kids and a cross-country move to Portland to name a few. If
     you really want to hear about any of that, I'm happy to share over a
-    beverage.) I believe there is value in people being vulnerable in their
-    careers and sharing their failures alongside their successes. How else are
-    you supposed to gain experience, amirite?!
+    beverage.) There is value in people being vulnerable, sharing their failures
+    alongside their successes. As Yoda once said, “The greatest teacher, failure
+    is.”
 values:
   - copy: >
       This site started off as a fun side project to get my hands further into
