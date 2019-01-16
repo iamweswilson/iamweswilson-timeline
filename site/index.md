@@ -4,23 +4,23 @@ hero:
   intro: >-
     This is my attempt at being open and honest about the experiences that have
     shaped my career. Minor successes, lessons learned, miscalculations... all
-    of it. (However, I left off my personal milestones including marrying my
+    of it. (Side note: I left off my personal milestones including marrying my
     wife, raising 3 kids and a cross-country move to Portland to name a few. If
-    you really want to know anything about any of that, I'm happy to share over
-    a beverage.) I believe there is value in people being vulnerable in their
+    you really want to hear about any of that, I'm happy to share over a
+    beverage.) I believe there is value in people being vulnerable in their
     careers and sharing their failures alongside their successes. How else are
     you supposed to gain experience, amirite?!
 values:
   - copy: >
       This site started off as a fun side project to get my hands further into
-      static development. It turned into a writing exercise and deep dive into
-      forgotten experiences. From the technical side, it's built off of a set of
-      tools that we cobbled together for OSF pilot projects including Vue.js,
+      serverless development. It turned into a writing exercise and deep dive
+      into forgotten experiences. From the technical side, it's built off of a
+      set of tools that we cobbled together for OSF pilot projects including
       Vuepress, Bulma, Buefy and Netlify CMS. Feel free to dig into the code,
       take what you want and send any ideas. Please don't giggle too loudly at
-      the trial and error that's happening in my commits.
+      all of the trial and error that's happening in my commits.
     link: //github.com/iamweswilson/iamweswilson-timeline
-    linktext: See the code for this site
+    linktext: See the repo of GitHub
     title: Made this website
     year: 2019
   - copy: >
@@ -117,11 +117,12 @@ values:
   - copy: >
       At a loss. Techcrunch described it as us being “pulled from the deadpool”
       which wasn't entirely incorrect. It wasn't the outcome I had hoped for,
-      but it allowed me to get right with my customers and myself.
-      Unfortunately, I wasn't able to make my investors whole. I experienced
-      unbeleiveable stress in the months leading to this date. Did you know that
-      excess stress can trigger all sorts of auto-immune issues such as
-      allopecia and shingles? It can. Take care of yourselves.
+      but selling allowed me to get right with my customers and it took some
+      major stress off of my shoulders. Unfortunately, I wasn't able to make my
+      investors whole. I experienced unbeleiveable stress in the months leading
+      to this date. Did you know that excess stress can trigger all sorts of
+      auto-immune issues such as allopecia and shingles? It can. Take care of
+      yourselves.
     link: >-
       //techcrunch.com/2011/12/20/brandstack-pulled-from-the-deadpool-acquired-by-designcrowd/
     linktext: Read the TechCrunch article
