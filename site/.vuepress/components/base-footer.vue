@@ -9,6 +9,9 @@
           <a href="//instagram.com/iamweswilson">
             <img class="social-icon" src="/images/instagram.svg" alt>
           </a>
+          <a href="mailto:wes@iamweswilson.com">
+            <img class="social-icon" src="/images/email.svg" alt>
+          </a>
         </div>
       </div>
     </div>

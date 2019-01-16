@@ -7,7 +7,7 @@ hero:
     of it. (Side note: I left off my personal milestones including marrying my
     wife, raising 3 kids and a cross-country move to Portland to name a few. If
     you really want to hear about any of that, I'm happy to share over a
-    beverage.) There is value in people being vulnerable, sharing their failures
+    beverage.) There is real value in people being vulnerable, sharing their failures
     alongside their successes. As Yoda once said, “The greatest teacher, failure
     is.”
 values:
@@ -47,7 +47,7 @@ values:
       design theme for every Summit every 6 months. Each one is a labor of love
       and a lot of work. The team makes all the difference.
     image: /images/summit-sydney.jpg
-    title: 'Creative Director for my first Summit in Sydney, Australia'
+    title: "Creative Director for my first Summit in Sydney, Australia"
     year: 2017
   - copy: >
       And by "expanded" I mean we went from one full time designer (me) to two,
@@ -68,7 +68,7 @@ values:
     image: /images/openstack-logo.jpg
     link: //openstack.org
     linktext: Check out openstack.org
-    title: 'Lead Designer, OpenStack Foundation'
+    title: "Lead Designer, OpenStack Foundation"
     year: 2015
   - copy: >
       Worked mostly with startups and Texas firms doing UI/UX work and the
@@ -89,7 +89,7 @@ values:
       fizzled out shortly after.
     link: //news.ycombinator.com/item?id=4866054
     linktext: Read the Hacker News post
-    title: 'Co-Founder, Awesomatic'
+    title: "Co-Founder, Awesomatic"
     year: 2012
   - copy: >
       Techstars opened one of their signature startup incubator programs in San
@@ -98,7 +98,7 @@ values:
       Keen.io and Distil. At the time I was pretty tied into the local startup
       community, so I was asked to be a mentor. Imposter syndrome run wild!
     image: /images/ts_cloud.jpg
-    title: 'Mentor, Techstars Cloud'
+    title: "Mentor, Techstars Cloud"
     year: 2012
   - copy: >
       Previously known as ZippKid (a name purchased through BrandStack), we
@@ -112,7 +112,7 @@ values:
       management.
     link: //pressable.com
     linktext: Visit pressable.com
-    title: 'Co-Founder, Pressable'
+    title: "Co-Founder, Pressable"
     year: 2011
   - copy: >
       At a loss. Techcrunch described it as us being “pulled from the deadpool”
@@ -145,7 +145,7 @@ values:
     link: >-
       //techcrunch.com/2011/11/10/brandstack-heads-for-the-deadpool-blames-credit-card-fraud/
     linktext: Read the TechCrunch article
-    title: 'I made Techcrunch, finally!'
+    title: "I made Techcrunch, finally!"
     year: 2011
   - copy: >
       Sister product to BrandStack, later named BrandStack Custom, that utilized
@@ -211,7 +211,7 @@ values:
       never actually spoke to them, everything happened via Skype and email. I
       literally have never heard any of their voices to this day.
     image: /images/incspring.png
-    title: 'Founder, IncSpring'
+    title: "Founder, IncSpring"
     year: 2008
   - copy: >
       At the time was the youngest VP in the bank. Regardless of the
@@ -231,7 +231,7 @@ values:
       on their ideas. The bank thought my time was better served looking at the
       actual numbers, doing actual forecasting. Meanwhile, I was making so
       little that I had a second job working the register at a driving range.
-    title: 'Credit Analyst, Commercial Banking'
+    title: "Credit Analyst, Commercial Banking"
     year: 2002
   - copy: >
       My initial intention was to get a degree in marketing, but I changed
@@ -277,8 +277,8 @@ values:
       stellar GPAs. Fortunately, I made great friends and wouldn't change a
       thing. Plus, I won "Best Legs" in my class... it's in the yearbook so it's
       legit. How could I not be happy?!
-    image: ''
-    title: 'Graduate, Health Careers High School'
+    image: ""
+    title: "Graduate, Health Careers High School"
     year: 1996
   - copy: >
       Not directly a career milestone, but it shaped my mindset. Gold medal in
