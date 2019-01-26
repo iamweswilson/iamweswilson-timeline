@@ -12,9 +12,11 @@ hero:
     teacher, failure is.”
 values:
   - copy: >-
-      Leading our badass marketing team to help communicate the benefits of open
-      infrastructure while defining OSF's place in this evolving market. Level
-      of success TBD.
+      Leading our badass marketing team in communicating the benefits of open
+      infrastructure through OpenStack, Kata Containers, Airship, StarlingX and
+      Zuul, while defining OSF's place in the quickly evolving open source
+      market. Next step: Create a website for OSF to give you more details.
+      Level of success TBD.
     title: 'Director of Marketing, OpenStack Foundation '
     year: 2019
   - copy: >
