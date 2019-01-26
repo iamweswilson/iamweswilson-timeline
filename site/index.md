@@ -11,6 +11,12 @@ hero:
     failures alongside their successes. As Yoda once said, “The greatest
     teacher, failure is.”
 values:
+  - copy: >-
+      Leading our badass marketing team to help communicate the benefits of open
+      infrastructure and defining OSF‘s place in this evolving market. Level of
+      success TBD. 
+    title: 'Director of Marketing, OpenStack Foundation '
+    year: 2019
   - copy: >
       This site started off as a fun side project to get my hands further into
       serverless development. It turned into a writing exercise and deep dive
@@ -296,12 +302,6 @@ values:
       Jumping ahead to things that I had a little more to do with.
     title: Hello World
     year: 1978
-  - copy: >-
-      Leading our badass marketing team to help communicate the benefits of open
-      infrastructure and defining OSF‘s place in this evolving market. Level of
-      success TBD. 
-    title: 'Director of Marketing, OpenStack Foundation '
-    year: 2019
 ---
 
 <home-content>
