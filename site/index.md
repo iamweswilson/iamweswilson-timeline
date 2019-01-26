@@ -13,8 +13,8 @@ hero:
 values:
   - copy: >-
       Leading our badass marketing team to help communicate the benefits of open
-      infrastructure and defining OSF‘s place in this evolving market. Level of
-      success TBD. 
+      infrastructure while defining OSF's place in this evolving market. Level
+      of success TBD.
     title: 'Director of Marketing, OpenStack Foundation '
     year: 2019
   - copy: >
