@@ -28,7 +28,7 @@ values:
       take what you want and send any ideas. Please don't giggle too loudly at
       all of the trial and error that's happening in my commits.
     link: //github.com/iamweswilson/iamweswilson-timeline
-    linktext: See the repo of GitHub
+    linktext: GitHub repo
     title: Made this website
     year: 2019
   - copy: >
