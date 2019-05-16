@@ -12,6 +12,13 @@ hero:
     teacher, failure is.”
 values:
   - copy: >-
+      Since being founded in 2012, the OpenStack Foundation has not had it's own identity. The foundation's sole purpose was to support the OpenStack software project so a unique identity would've countered the mission. Now that OSF has expanded its focus, hosting other projects and driving forward open infrastrucutre, a unique identity was needed to differentiate the foundation from the software. First steps in that process: a new logo and website. Luckily, I get to work with tremendous designers and developers that can bring the vision to life.
+    title: "Creating an identity for OSF"
+    image: /images/osf-logo.png
+    year: 2019
+    link: //osf.dev
+    linktext: visit OSF.dev
+  - copy: >-
       Leading our badass marketing and events teams in communicating the benefits of open
       infrastructure through OpenStack, Kata Containers, Airship, StarlingX and
       Zuul, while defining OSF's place in the quickly evolving open source
@@ -71,7 +78,7 @@ values:
       trust my teammates and it paid off. My eyes were opened to how much impact
       the right team could have when combined with the right amount of autonomy.
       We were making an impact on hugely impactful organizations like CERN,
-      Walmart, Nike, BMW, China Railway and more.
+      Walmart, Nike, BMW, Blizzard Entertainment, Baidu and more.
     image: /images/openstack-logo.jpg
     link: //openstack.org
     linktext: Check out openstack.org
@@ -224,7 +231,7 @@ values:
       At the time was the youngest VP in the bank. Regardless of the
       accomplishment, I quickly realized I was not cut out for banking. My job
       was to maintain a multi-million dollar commerical loan portfolio and find
-      new business to loan money to. I was good at the maintaining, but not so
+      new businesses to loan money to. I was good at the maintaining, but not so
       much the sales part. I was much more interested in helping myself be an
       entrepreneur than someone else.
     title: Vice President of Commercial Banking
@@ -266,7 +273,7 @@ values:
     title: Managed family construction business
     year: 1999
   - copy: >
-      I atarted my first company building custom speed skating boots. In
+      I started my first company building custom speed skating boots. In
       additional to learning in-home manufacturing (building boots out of carbon
       fiber, leather, and other synthetic materials), I learned the true power
       of the internet, sourcing inventory from Italy and Japan via email. In a
