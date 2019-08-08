@@ -173,14 +173,12 @@ values:
     title: Launched UpStack
     year: 2010
   - copy: >
-      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
-      that relationship and didn't realize raising at that scale was possible
-      until I met them. Part of the process included rebranding IncSpring to
-      BrandStack, which I think was partially to see how well we worked
-      together. Luckily it all worked out and with $250k in the bank, it was
-      time to take my startup full time.
-    image: /images/brandstack-logo.jpg
-    title: Raised seed capital
+      Designer, illustrator and writer. I micromanaged the hell out of them. I
+      honestly had no idea how to manage people, so I started every day with a
+      standup (which is very managerial), but then gave daily tasks. I gave no
+      autonomy, which prevented them from helping me grow. They took it like
+      champs. I still heart all of them and love following their success.
+    title: Hired my first 3 employees
     year: 2009
   - copy: >
       Getty Images was one suitor who was persistent, we chatted for months. I
