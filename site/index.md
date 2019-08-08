@@ -1,7 +1,7 @@
 ---
 hero:
   headline: I am Wes Wilson. This is my site. This is how I got here.
-  intro: >-
+  intro: >
     This is my attempt at being open and honest about the experiences that have
     shaped my career. Minor successes, lessons learned, miscalculations... all
     of it. (Side note: I left off my personal milestones including marrying my
@@ -11,14 +11,14 @@ hero:
     failures alongside their successes. As Yoda once said, “The greatest
     teacher, failure is.”
 values:
-  - copy: >-
+  - copy: >
       Since being founded in 2012, the OpenStack Foundation has not had it's own identity. The foundation's sole purpose was to support the OpenStack software project so a unique identity would've countered the mission. Now that OSF has expanded its focus, hosting other projects and driving forward open infrastrucutre, a unique identity was needed to differentiate the foundation from the software. First steps in that process: a new logo and website. Luckily, I get to work with tremendous designers and developers that can bring the vision to life.
     title: "Creating an identity for OSF"
     image: /images/osf-logo.png
     year: 2019
     link: //osf.dev
     linktext: visit OSF.dev
-  - copy: >-
+  - copy: >
       Leading our badass marketing and events teams in communicating the benefits of open
       infrastructure through OpenStack, Kata Containers, Airship, StarlingX and
       Zuul, while defining OSF's place in the quickly evolving open source
@@ -49,7 +49,7 @@ values:
       //www.openstack.org/videos/summits/berlin-2018/keynotes-every-contributor-makes-a-difference
     linktext: Watch the Day 1 keynote
     linktext2: Watch the Day 2 keynote
-    title: >-
+    title: >
       Led our team in writing keynotes for the OpenStack Summit in Berlin for
       the first time
     year: 2018
@@ -137,7 +137,7 @@ values:
       to this date. Did you know that excess stress can trigger all sorts of
       auto-immune issues such as allopecia and shingles? It can. Take care of
       yourselves.
-    link: >-
+    link: >
       //techcrunch.com/2011/12/20/brandstack-pulled-from-the-deadpool-acquired-by-designcrowd/
     linktext: Read the TechCrunch article
     title: Sold BrandStack
@@ -156,7 +156,7 @@ values:
       wasn't strong enough to encourage further investment. Time to shut it
       down.
     image: /images/techcrunch-logo.png
-    link: >-
+    link: >
       //techcrunch.com/2011/11/10/brandstack-heads-for-the-deadpool-blames-credit-card-fraud/
     linktext: Read the TechCrunch article
     title: "I made Techcrunch, finally!"
@@ -191,6 +191,16 @@ values:
     title: Hired my first 3 employees
     year: 2009
   - copy: >
+      Raised seed round of funding from 2 founders from Rackspace. Stumbled into
+      that relationship and didn't realize raising at that scale was possible
+      until I met them. Part of the process included rebranding IncSpring to
+      BrandStack, which I think was partially to see how well we worked
+      together. Luckily it all worked out and with $250k in the bank, it was
+      time to take my startup full time.
+    image: /images/brandstack-logo.jpg
+    title: Raised seed capital
+    year: 2009
+  - copy: >
       Getty Images was one suitor who was persistent, we chatted for months. I
       declined to move forward shortly after finalizing my seed round.
       iStockPhoto, a subsidiary of Getty, announced on their forums that they
@@ -199,7 +209,7 @@ values:
       launched that I'm aware of, so they might have seen the writing on the
       wall before I did.
     image: /images/istock.jpg
-    link: >-
+    link: >
       //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
     link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
     linktext: Read the article on TechCrunch
