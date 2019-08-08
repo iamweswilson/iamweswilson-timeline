@@ -172,12 +172,14 @@ values:
     linktext: See the original logo on BrandCrowd
     title: Launched UpStack
     year: 2010
-  - copy: >
-      Got a little freaked out by the size of the crowd of 10s of people (shown in the pic) and nervously chattered my way through the Q&A. I spoke mostly about the ups and downs of online marketing, which is ironic since I was only in the "biz" for less than one year.
-    image: /images/sxsw-crowd.jpg
-    title: Spoke on my first SXSW panel
+  - title: Spoke on my first SXSW panel
     year: 2009
-  - copy: >
+    copy: >
+      Got a little freaked out by the size of the crowd of 10s of people (shown in the pic) and nervously chattered my way through the Q&A. I spoke mostly about the ups and downs of online markets, which is ironic since I was only in the "biz" for less than one year.
+    image: /images/sxsw-crowd.jpg
+  - title: Raised seed capital
+    year: 2009
+    copy: >
       Raised seed round of funding from 2 founders of Rackspace. Stumbled into
       that relationship and didn't realize raising at that scale was possible
       until I met them. Part of the process included rebranding IncSpring to
@@ -185,8 +187,6 @@ values:
       together. Luckily it all worked out and with $250k in the bank, it was
       time to take my startup full time.
     image: /images/brandstack-logo.jpg
-    title: Raised seed capital
-    year: 2009
   - copy: >
       IncSpring was a marketplace for unused logos and domain names. My office
       was my 2001 Ford Explorer. While working my full-time banking gig, I’d sit
