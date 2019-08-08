@@ -225,7 +225,7 @@ values:
       never actually spoke to them, everything happened via Skype and email. I
       literally have never heard any of their voices to this day.
     image: /images/incspring.png
-    title: "Founder, IncSpring"
+    title: Founder, IncSpring
     year: 2008
   - copy: >
       At the time was the youngest VP in the bank. Regardless of the
