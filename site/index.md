@@ -173,6 +173,34 @@ values:
     title: Launched UpStack
     year: 2010
   - copy: >
+      Got a little freaked out by the size of the crowd of 10s of people (shown
+      in the pic) and nervously chatterted my way through the Q&A. I spoke
+      mostly about the ups and downs of online markets, which is ironic since I
+      was only in the "biz" for less than one year. Just look at how excited
+      everyone was to hear us (yawning was a common reaction.) Side note, iPhone
+      photos were not great back then.
+    image: /images/sxsw-crowd.jpg
+    title: Spoke on my first SXSW panel
+    year: 2009
+  - copy: >
+      Designer, illustrator and writer. I micromanaged the hell out of them. I
+      honestly had no idea how to manage people, so I started every day with a
+      standup (which is very managerial), but then gave daily tasks. I gave no
+      autonomy, which prevented them from helping me grow. They took it like
+      champs. I still heart all of them and love following their success.
+    title: Hired my first 3 employees
+    year: 2009
+  - copy: >
+      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
+      that relationship and didn't realize raising at that scale was possible
+      until I met them. Part of the process included rebranding IncSpring to
+      BrandStack, which I think was partially to see how well we worked
+      together. Luckily it all worked out and with $250k in the bank, it was
+      time to take my startup full time.
+    image: /images/brandstack-logo.jpg
+    title: Raised seed capital
+    year: 2009
+  - copy: >
       Getty Images was one suitor who was persistent, we chatted for months. I
       declined to move forward shortly after finalizing my seed round.
       iStockPhoto, a subsidiary of Getty, announced on their forums that they
@@ -187,21 +215,6 @@ values:
     linktext2: See an embed of the original forum post
     title: Fielded significant acquisition offers for IncSpring
     year: 2009
-  - title: Spoke on my first SXSW panel
-    year: 2009
-    copy: >
-      Got a little freaked out by the size of the crowd of 10s of people (shown in the pic) and nervously chattered my way through the Q&A. I spoke mostly about the ups and downs of online markets, which is ironic since I was only in the "biz" for less than one year.
-    image: /images/sxsw-crowd.jpg
-  - title: Raised seed capital
-    year: 2009
-    copy: >
-      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
-      that relationship and didn't realize raising at that scale was possible
-      until I met them. Part of the process included rebranding IncSpring to
-      BrandStack, which I think was partially to see how well we worked
-      together. Luckily it all worked out and with $250k in the bank, it was
-      time to take my startup full time.
-    image: /images/brandstack-logo.jpg
   - copy: >
       IncSpring was a marketplace for unused logos and domain names. My office
       was my 2001 Ford Explorer. While working my full-time banking gig, I’d sit
