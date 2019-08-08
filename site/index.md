@@ -43,9 +43,9 @@ values:
       it went on stage in front of 2,500+. I had no idea I'd be on stage and
       would not have selected a hoodie to wear if I had known.
     image: /images/openstack_berlin.jpg
-    link: >-
+    link: >
       //www.openstack.org/videos/summits/berlin-2018/keynotes-why-open-infrastructure-matters
-    link2: >-
+    link2: >
       //www.openstack.org/videos/summits/berlin-2018/keynotes-every-contributor-makes-a-difference
     linktext: Watch the Day 1 keynote
     linktext2: Watch the Day 2 keynote
@@ -191,7 +191,7 @@ values:
     title: Hired my first 3 employees
     year: 2009
   - copy: >
-      Raised seed round of funding from 2 founders from Rackspace. Stumbled into
+      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
       that relationship and didn't realize raising at that scale was possible
       until I met them. Part of the process included rebranding IncSpring to
       BrandStack, which I think was partially to see how well we worked
@@ -259,7 +259,7 @@ values:
       I would ace that class. To my surprise, I received a "D" with a note
       saying I likely copied it from the internet. Go Runners!
     image: /images/utsa.png
-    title: >-
+    title: >
       Bachelors in Business Management and Entrepreneurship, University of TX at
       San Antonio
     year: 2000
