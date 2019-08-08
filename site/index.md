@@ -207,7 +207,6 @@ values:
     linktext2: See an embed of the original forum post
     title: Fielded significant acquisition offers for IncSpring
     year: 2009
-
   - copy: >
       IncSpring was a marketplace for unused logos and domain names. My office
       was my 2001 Ford Explorer. While working my full-time banking gig, I’d sit
