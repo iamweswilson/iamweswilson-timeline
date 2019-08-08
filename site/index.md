@@ -172,6 +172,21 @@ values:
     linktext: See the original logo on BrandCrowd
     title: Launched UpStack
     year: 2010
+  - copy: >
+      Getty Images was one suitor who was persistent, we chatted for months. I
+      declined to move forward shortly after finalizing my seed round.
+      iStockPhoto, a subsidiary of Getty, announced on their forums that they
+      would be launching a competing service shortly after. Looking back, these
+      could have also been fishing expeditions. Their competing service was not
+      launched that I'm aware of, so they might have seen the writing on the
+      wall before I did.
+    image: /images/istock.jpg
+    link: //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
+    link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
+    linktext: Read the article on TechCrunch
+    linktext2: See an embed of the original forum post
+    title: Fielded significant acquisition offers for IncSpring
+    year: 2009
   - title: Spoke on my first SXSW panel
     year: 2009
     copy: >
