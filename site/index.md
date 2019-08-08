@@ -173,27 +173,22 @@ values:
     title: Launched UpStack
     year: 2010
   - copy: >
+      Got a little freaked out by the size of the crowd of 10s of people (shown
+      in the pic) and nervously chatterted my way through the Q&A. I spoke
+      mostly about the ups and downs of online markets, which is ironic since I
+      was only in the "biz" for less than one year. Just look at how excited
+      everyone was to hear us (yawning was a common reaction.) Side note, iPhone
+      photos were not great back then.
+    image: /images/sxsw-crowd.jpg
+    title: Spoke on my first SXSW panel
+    year: 2009
+  - copy: >
       Designer, illustrator and writer. I micromanaged the hell out of them. I
       honestly had no idea how to manage people, so I started every day with a
       standup (which is very managerial), but then gave daily tasks. I gave no
       autonomy, which prevented them from helping me grow. They took it like
       champs. I still heart all of them and love following their success.
     title: Hired my first 3 employees
-    year: 2009
-  - copy: >
-      Getty Images was one suitor who was persistent, we chatted for months. I
-      declined to move forward shortly after finalizing my seed round.
-      iStockPhoto, a subsidiary of Getty, announced on their forums that they
-      would be launching a competing service shortly after. Looking back, these
-      could have also been fishing expeditions. Their competing service was not
-      launched that I'm aware of, so they might have seen the writing on the
-      wall before I did.
-    image: /images/istock.jpg
-    link: //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
-    link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
-    linktext: Read the article on TechCrunch
-    linktext2: See an embed of the original forum post
-    title: Fielded significant acquisition offers for IncSpring
     year: 2009
   - copy: >
       IncSpring was a marketplace for unused logos and domain names. My office
