@@ -209,8 +209,7 @@ values:
       launched that I'm aware of, so they might have seen the writing on the
       wall before I did.
     image: /images/istock.jpg
-    link: >
-      //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
+    link: //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
     link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
     linktext: Read the article on TechCrunch
     linktext2: See an embed of the original forum post
