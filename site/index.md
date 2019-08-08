@@ -171,7 +171,7 @@ values:
     link: //www.brandcrowd.com/logo-design/details/15120
     linktext: See the original logo on BrandCrowd
     title: Launched UpStack
-    year: 2010
+    year: 2009
   - copy: >
       Got a little freaked out by the size of the crowd of 10s of people (shown
       in the pic) and nervously chatterted my way through the Q&A. I spoke
