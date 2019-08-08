@@ -173,16 +173,6 @@ values:
     title: Launched UpStack
     year: 2010
   - copy: >
-      Got a little freaked out by the size of the crowd of 10s of people (shown
-      in the pic) and nervously chatterted my way through the Q&A. I spoke
-      mostly about the ups and downs of online markets, which is ironic since I
-      was only in the "biz" for less than one year. Just look at how excited
-      everyone was to hear us (yawning was a common reaction.) Side note, iPhone
-      photos were not great back then.
-    image: /images/sxsw-crowd.jpg
-    title: Spoke on my first SXSW panel
-    year: 2009
-  - copy: >
       Getty Images was one suitor who was persistent, we chatted for months. I
       declined to move forward shortly after finalizing my seed round.
       iStockPhoto, a subsidiary of Getty, announced on their forums that they
