@@ -183,39 +183,6 @@ values:
     title: Spoke on my first SXSW panel
     year: 2009
   - copy: >
-      Designer, illustrator and writer. I micromanaged the hell out of them. I
-      honestly had no idea how to manage people, so I started every day with a
-      standup (which is very managerial), but then gave daily tasks. I gave no
-      autonomy, which prevented them from helping me grow. They took it like
-      champs. I still heart all of them and love following their success.
-    title: Hired my first 3 employees
-    year: 2009
-  - copy: >
-      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
-      that relationship and didn't realize raising at that scale was possible
-      until I met them. Part of the process included rebranding IncSpring to
-      BrandStack, which I think was partially to see how well we worked
-      together. Luckily it all worked out and with $250k in the bank, it was
-      time to take my startup full time.
-    image: /images/brandstack-logo.jpg
-    title: Raised seed capital
-    year: 2009
-  - copy: >
-      Getty Images was one suitor who was persistent, we chatted for months. I
-      declined to move forward shortly after finalizing my seed round.
-      iStockPhoto, a subsidiary of Getty, announced on their forums that they
-      would be launching a competing service shortly after. Looking back, these
-      could have also been fishing expeditions. Their competing service was not
-      launched that I'm aware of, so they might have seen the writing on the
-      wall before I did.
-    image: /images/istock.jpg
-    link: //techcrunch.com/2009/09/23/istockphoto-will-soon-start-selling-stock-logos-too/
-    link2: //www.nikibrown.com/designoblog/2009/09/22/stock-logos/
-    linktext: Read the article on TechCrunch
-    linktext2: See an embed of the original forum post
-    title: Fielded significant acquisition offers for IncSpring
-    year: 2009
-  - copy: >
       IncSpring was a marketplace for unused logos and domain names. My office
       was my 2001 Ford Explorer. While working my full-time banking gig, I’d sit
       on my laptop outside of a nearby coffee shop with wifi that reached the
