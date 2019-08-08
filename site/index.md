@@ -181,16 +181,6 @@ values:
     title: Hired my first 3 employees
     year: 2009
   - copy: >
-      Raised seed round of funding from 2 founders of Rackspace. Stumbled into
-      that relationship and didn't realize raising at that scale was possible
-      until I met them. Part of the process included rebranding IncSpring to
-      BrandStack, which I think was partially to see how well we worked
-      together. Luckily it all worked out and with $250k in the bank, it was
-      time to take my startup full time.
-    image: /images/brandstack-logo.jpg
-    title: Raised seed capital
-    year: 2009
-  - copy: >
       Getty Images was one suitor who was persistent, we chatted for months. I
       declined to move forward shortly after finalizing my seed round.
       iStockPhoto, a subsidiary of Getty, announced on their forums that they
