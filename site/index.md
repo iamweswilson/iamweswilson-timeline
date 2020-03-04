@@ -12,12 +12,22 @@ hero:
     teacher, failure is.”
 values:
   - copy: >
-      Since being founded in 2012, the OpenStack Foundation has not had it's own identity. The foundation's sole purpose was to support the OpenStack software project so a unique identity would've countered the mission. Now that OSF has expanded its focus, hosting other projects and driving forward open infrastrucutre, a unique identity was needed to differentiate the foundation from the software. First steps in that process: a new logo and website. Luckily, I get to work with tremendous designers and developers that can bring the vision to life.
-    title: "Creating an identity for OSF"
+      Momentum is strong. 2019 was a success and the future of open infrastructure is bright.
+    title: "To early to tell"
+    year: 2020
+  - copy: >
+      Open infrastructure starts with OpenStack (but it doesn't end there). For several years, the OpenStack Summit has expanded to welcoming dozens of open source communities including Ceph, Kubernetes, Docker, OPNFV and more. To better reflect the expansion of the communities the event serves, we rebranded the OpenStack Summit to the Open Infrastructure Summit. The name is long and "infrastructure" is tough to type, but the category is what we needed to capture. The first rebranded Summit was held in April in Denver, the second in November in Shanghai. Both were a resounding success!
+    title: "What is OSF?"
     image: /images/osf-logo.png
     year: 2019
     link: //osf.dev
     linktext: visit OSF.dev
+  - copy: >
+      Since being founded in 2012, the OpenStack Foundation has not had it's own identity. The foundation's sole purpose was to support the OpenStack software project. A unique identity would have countered that mission. As we expand OSF's role to fostering open infrastructure, including hosting other open source projects and building new OSS communities, we realize OSF needs an identity that differentiates the foundation from the software. Luckily, I get to work with tremendous writers, designers and developers that can bring the vision to life.
+    title: "Open Infrastructure Summit"
+    year: 2019
+    link: //www.openstack.org/summit/
+    linktext: Open Infrastructure Summit
   - copy: >
       Leading our badass marketing and events teams in communicating the benefits of open
       infrastructure through OpenStack, Kata Containers, Airship, StarlingX and
