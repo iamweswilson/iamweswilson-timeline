@@ -26,6 +26,7 @@ values:
       Since being founded in 2012, the OpenStack Foundation has not had it's own identity. The foundation's sole purpose was to support the OpenStack software project. A unique identity would have countered that mission. As we expand OSF's role to fostering open infrastructure, including hosting other open source projects and building new OSS communities, we realize OSF needs an identity that differentiates the foundation from the software. Luckily, I get to work with tremendous writers, designers and developers that can bring the vision to life.
     title: "Open Infrastructure Summit"
     year: 2019
+    image: /images/ois-logo.png
     link: //www.openstack.org/summit/
     linktext: Open Infrastructure Summit
   - copy: >
