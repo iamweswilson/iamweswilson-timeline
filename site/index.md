@@ -13,7 +13,7 @@ hero:
 values:
   - copy: >
       Momentum is strong. 2019 was a success and the future of open infrastructure is bright.
-    title: "To early to tell"
+    title: "Too early to tell"
     year: 2020
   - copy: >
       Open infrastructure starts with OpenStack (but it doesn't end there). For several years, the OpenStack Summit has expanded to welcoming dozens of open source communities including Ceph, Kubernetes, Docker, OPNFV and more. To better reflect the expansion of the communities the event serves, we rebranded the OpenStack Summit to the Open Infrastructure Summit. The name is long and "infrastructure" is tough to type, but the category is what we needed to capture. The first rebranded Summit was held in April in Denver, the second in November in Shanghai. Both were a resounding success!
