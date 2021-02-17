@@ -23,7 +23,7 @@
     "buefy": "^0.7.0",
     "bulma-timeline": "^3.0.0",
     "eslint": "^5.6.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0"
   }
 }
